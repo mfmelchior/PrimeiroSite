@@ -1,0 +1,58 @@
+body {
+    color: white;
+    background-color: #DF0174;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul {
+    display: flex; /* deixa os elementos do nav um do lado do outro*/
+    justify-content: space-between; /*deixa os elemtnso do nav com espaçamento*/
+    list-style-type: none; /*tira a bolinha do lado dos escritos dos elementos do nav*/
+    padding: 16px; /*deixa os elemtnso do nav com uma distância de 16px do topo da tela*/
+}
+
+a{
+    color: white; /*deixando os elementos do nav brancos porque com link ficam, por regra, azuis*/
+    text-decoration: none; /*tira a linha debaixo dos elementos do nav*/
+}
+
+header img{
+    width: 150px; /*tamanho da imagem*/
+    height: 150px; /*tamanho da imagem*/
+    border-radius: 50%; /*deixa a imagem redonda*/
+    border: 5px solid #DA81F5; /*faz uma borda colorida em volta da imagem*/
+}
+
+.center{
+    text-align: center; /*deixa o texto ou imagem da classe no centro*/
+}
+
+h1{
+    color: #DA81F5;
+}
+
+footer img{
+    height: 40px;
+    width: 40px;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+}
+
+footer a{
+    margin: 30px;
+    text-align: center;
+}
+
+footer p{
+    margin-top: 2px;
+}
+
+.container{
+    padding: 0px 50px;
+}
+
+nav a:hover{
+    color: #DA81F5;
+}
