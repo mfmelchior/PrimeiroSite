@@ -1,0 +1,1 @@
+Olá, meu nome é Maria Fernanda, esse é meu primeiro repositório no Github, com o intuito de mostrar meus conhecimentos inicais básicos em HTML  e CSS, em outros repositórios você irá encontrar códigos mais elaborados em Python, Javascript e em HTML e CSS também.
